@@ -8,7 +8,7 @@ export const modelConfigs = [
   {
     model: "deepseek-v3-250324",
     apiKey: "ARK_API_KEY",
-    baseURL: "https://ark.cn-beijing.volces.com/api/v3"
+    baseURL: "https://api.deepseek.com"
   },
   {
     model: "hunyuan-turbos-latest",
